@@ -60,13 +60,6 @@ Add Job: Option to add new job listings.
 Edit Job: Option to edit existing job details.
 Delete Job: Option to remove job listings from the list.
 
-# Installation
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
-
-2. Navigate to the project directory:
-   cd your-repo-name
-
 # Usage
 1. Open index.html in your preferred web browser.
 2. Use the login interface to access the dashboard.
